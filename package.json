@@ -1,0 +1,28 @@
+{
+  "name": "super-bakery-nodejs",
+  "version": "1.0.0",
+  "description": "Super Bakery ecommerce application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sajj96/Super-Bakery-NodeJs.git"
+  },
+  "author": "Sajjad Abubakari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sajj96/Super-Bakery-NodeJs/issues"
+  },
+  "homepage": "https://github.com/Sajj96/Super-Bakery-NodeJs#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "mongodb": "^3.6.2"
+  }
+}
